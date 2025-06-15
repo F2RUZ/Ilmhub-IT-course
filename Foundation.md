@@ -1,6 +1,4 @@
-Keling, siz uchun 5 oylik C++ dasturlash kursining batafsil ish rejasini tuzib chiqamiz, unda **OOP (Obyektga yo'naltirilgan dasturlash)** qismigacha bo'lgan mavzular qamrab olinadi. Har bir oyga 12 ta dars ajratilgan bo'lib, har bir dars uchun mavzu, qisqacha tavsif va havola (link) beriladi. GitHub MD fayl formatida taqdim etiladi.
 
------
 
 # C++ Dasturlash Kursi: IT Foundation (OOP gacha) - 5 Oylik Ish Rejasi
 
